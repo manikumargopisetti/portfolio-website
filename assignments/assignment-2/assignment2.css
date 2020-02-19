@@ -1,0 +1,45 @@
+/* Write your CSS here */
+
+.pcolor
+      {
+        
+        background-color: blue;
+        height: 50px;
+        
+      }
+   .sp
+      {
+        background-color: skyblue;
+        height: 50px;
+        width: 49.0%;
+        display: inline-block;
+        margin-bottom: 2%;
+      }
+.ab
+      {
+           background-color:blue;
+           height: 50px;
+           width: 32%;
+           display: inline-block;
+           margin-bottom: 2%;
+      }
+     .f
+        {
+        background-color: skyblue;
+        height: 50px;
+        width: 23.5%;
+        display: inline-block;
+        margin-bottom: 2%;
+        }
+    .t
+       {
+        background-color: blue;
+        height: 50px;
+        width: 6.5%;
+        display: inline-block;
+           
+       }
+       .gm
+       {
+           margin-right: 2%;
+       }
