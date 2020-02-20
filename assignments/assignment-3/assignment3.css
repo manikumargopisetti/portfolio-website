@@ -31,7 +31,8 @@ url('https://fonts.googleapis.com/css?family=Inconsolata|Signika&display=swap');
     padding:2%;
 }
 .fDiv
-{
+{   
+    margin-top: -3%;
     font-size: 30px;
     color:#00BFFF;
 }
