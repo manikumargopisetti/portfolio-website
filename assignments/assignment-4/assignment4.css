@@ -1,0 +1,36 @@
+/* Write your CSS here */
+/*.bdy
+{
+    background-color: #DCDCDC;
+    padding: 5%;
+}*/
+.hlt
+{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.bld
+{
+    font-weight: 600;
+    font-size: 30px;
+}
+.spc
+{
+    margin-bottom: 20px;
+}
+.undr
+{
+    border-bottom: 3px solid skyblue;
+    /*text-decoration-color: blue; */
+}
+.img
+{
+    vertical-align: middle;
+    width: 45px;
+    margin-bottom: 5px;
+}
+.lt
+{
+    font-size: 20px;
+    margin-left: 20px;
+}
