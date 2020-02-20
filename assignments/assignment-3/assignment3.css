@@ -1,0 +1,52 @@
+/* Write your CSS here */
+@import
+url('https://fonts.googleapis.com/css?family=Inconsolata|Signika&display=swap');
+.Bd
+{
+ padding: 2%;
+ background-color: lightgrey;
+}
+.to
+{
+    text-decoration: underline;
+    text-decoration-color:#00BFFF;
+}
+.hed
+{
+    margin-top:-20px;
+    font-size: 40px;
+    font-family: "Inconsolata";
+}
+#tit
+{
+   font-weight: 500;
+   font-family: "Signika";
+}
+.box1
+{
+    background-color: #FFFFFF;
+    display: inline-block;
+    width: 27%;
+    border-radius:10px;
+    padding:2%;
+}
+.fDiv
+{
+    font-size: 30px;
+    color:#00BFFF;
+}
+.sub
+{
+    margin-top: -15px;
+    font-style: bold;
+    font-weight: 600;
+}
+
+.gm
+{
+    margin-right: 3.5%;
+}
+.pd
+{
+    padding-left:10px;
+}
