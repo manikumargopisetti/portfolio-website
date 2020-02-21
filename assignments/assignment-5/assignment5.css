@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.undr
+{
+    border-bottom: 3px solid skyblue;
+}
+.mrg
+{
+    margin-bottom: 40px;
+    font-size: 150%;
+}
+.mrg1
+{
+    margin-bottom: 20px;
+}
+.mrg2
+{
+    margin-bottom: 10%;
+}
+.fntsz
+{
+    font-weight: 600;
+    font-size: 150%;
+}
+.mid
+{
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    font-size:180%;
+    margin-bottom: 7%;
+}
+.img
+{
+    
+    display: inline-block;
+    height:10%;
+    width: 10%;
+    
+}
+.sp
+{
+   margin-right:16%;
+   
+}
+.tt
+{
+    margin-top: -5%;
+    /*width: 60%;
+    background-color: white;*/
+    padding:5%;
+}
