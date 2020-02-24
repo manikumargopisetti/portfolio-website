@@ -25,7 +25,7 @@ h1
     background-color: Blue;
     color:white;
     text-align: center;
-    vertical-align:middle;
+    /*vertical-align:middle;*/
     display: inline-block;
     margin-right:2%;
     margin-left: 22.5%;
@@ -37,10 +37,12 @@ h1
     height: 20px;
     width: 10%;
     border-radius: 15px;
-    border:2px solid black;
+    border:1px solid gray;
     display:inline-block;
     text-align: center;
     margin-right:2%;
+    background-color: white;
+    color:gray;
     
 }
 .under-mng
@@ -58,6 +60,7 @@ h1
     border:2px solid black;
     display: inline-block;
     text-align: center;
+    background-color:white;
     
 }
 .box
@@ -102,7 +105,7 @@ h1
 .box1
 {
     margin-top:5%;
-    height: 35px;
+    height: 25px;
     width: 25%;
     border:2px solid orange;
     background-color: orange;
@@ -110,7 +113,9 @@ h1
     text-align:center; 
     color:white;
     font-size:20px;
+    font-weight: bold;
     border-radius: 2px;
+    padding-top: 2%;
 }
 .paragraph
 {
