@@ -1,1 +1,120 @@
 /* Write your CSS here */
+.color
+{
+    background-color: AliceBlue;
+}
+h1
+{
+    text-align: center;
+    font-weight:bold;
+    font-size:150%;
+}
+.prgrph
+{
+    text-align: center;
+    font-weight: bold;
+    font-size:100%;
+    margin-bottom: 5%;
+}
+.crve
+{
+    height :20px;
+    width: 5%;
+    border-radius: 15px;
+    border:2px solid blue;
+    background-color: Blue;
+    color:white;
+    text-align: center;
+    vertical-align:middle;
+    display: inline-block;
+    margin-right:2%;
+    margin-left: 22.5%;
+    
+    
+}
+.crve1
+{
+    height: 20px;
+    width: 10%;
+    border-radius: 15px;
+    border:2px solid black;
+    display:inline-block;
+    text-align: center;
+    margin-right:2%;
+    
+}
+.under-mng
+{
+    margin-left:31.5%;
+    font-size: 12px;
+    margin-top:0%;
+    color:gray;
+}
+.crve2
+{
+    height: 20px;
+    width: 15%;
+    border-radius: 15px;
+    border:2px solid black;
+    display: inline-block;
+    text-align: center;
+    
+}
+.box
+{
+    height: 40px;
+    width: 32%;
+    /*border:1px solid black;*/
+    display: inline-block;
+    border-radius:8px;
+    box-sizing:border-box;
+    border-left: 3px solid skyblue; 
+    margin-top: 5%;
+    padding: 1%;
+    font-weight: bold;
+    background-color: white;
+}
+.spc
+{
+    margin-right: 2%;
+}
+.padsp
+{
+    padding-left: 30%;
+    /*display: inline-block;*/
+}
+.padsp1
+{
+    padding-left: 43%;
+}
+.padsp2
+{
+    padding-left: 53%;
+}
+.padsp3
+{
+    padding-left: 59%;
+}
+.colr
+{
+    border-left:3px solid gray;
+}
+.box1
+{
+    margin-top:5%;
+    height: 35px;
+    width: 25%;
+    border:2px solid orange;
+    background-color: orange;
+    padding: 1%;
+    text-align:center; 
+    color:white;
+    font-size:20px;
+    border-radius: 2px;
+}
+.paragraph
+{
+    margin-top: 1%;
+    margin-left:36%;
+    font-size: 15px;
+}
