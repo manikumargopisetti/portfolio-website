@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.background
+{
+    background-image: url(assets/bg-image.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    height:350px;
+}
+img
+{
+    -webkit-clip-path: circle(22.3% at 50% 50%);
+    margin-left:-62.5%;
+    margin-top: -62%;
+    /*border:5px solid red;*/
+    height: 225%;
+    width: 225%;
+}
+.img_cricle
+{
+    margin-top: 20%;
+    margin-left: 39%;
+    border:7px solid white;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.heading
+{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom:12%;
+}
+.heading2
+{
+    font-size: 40px;
+    
+}
+.menu
+{
+    
+    height: 40px;
+    width: 90%;
+    background-color: white;
+    border-radius: 30px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 3%;
+    margin-left: 5%;
+}
+.space
+{   
+    font-size: 18px;
+    margin-right: 5%;
+}
