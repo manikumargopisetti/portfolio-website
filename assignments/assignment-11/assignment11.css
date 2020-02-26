@@ -1,0 +1,29 @@
+.cotainer
+   {
+       height: 700px;
+    }
+    .row
+    {
+      
+    }
+    .col-4
+    {
+      height:120px;
+      text-align: center;
+      padding: 4%;
+      background-color: gainsboro;
+      font-size: 30px;
+      border-radius: 10px;
+    }
+    .col-8
+    {
+         
+    }
+    .col-3
+    {
+        height: 30px;
+        border-radius: 10px;
+        color:white;
+        text-align: center;
+        background-color: blue;
+    }
