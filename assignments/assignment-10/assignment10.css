@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.backgroundcolor
+{
+    background-color: AliceBlue;
+}
+.background_image
+{
+    background-image: url(assets/rabbit.jpeg);
+    background-size: contain;
+    height: 350px;
+    width: 527px;
+    margin-left: 250px;
+}
+.image_border
+{
+    margin-top:-313px;
+    border:20px solid orange;
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    margin-left: 380px;
+}
