@@ -5,11 +5,10 @@
 .row1
 {
     background-color: gainsboro;
-    height: 170px;
     border-radius: 5px;
     font-size: 25px;
     text-align: center;
-    padding-top: 55px;
+    padding-top: 30px;
 }
 .sub_head
 {
@@ -23,23 +22,21 @@
     color:white;
     border-radius: 5px;
 }
-.line
-{
-    margin-top: -5px;
-}
+/*.line*/
+/*{*/
+/*    margin-top: -5px;*/
+/*}*/
 .row2
 {
     background-color: gainsboro;
-    height: 150px;
     border-radius: 5px;
     font-size: 25px;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 .row3
 {
     background-color: gainsboro;
-    height: 150px;
     border-radius: 5px;
     font-size: 30px;
     text-align: center;
