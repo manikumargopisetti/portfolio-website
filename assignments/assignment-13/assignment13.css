@@ -1,1 +1,20 @@
-
+.bold
+{
+    background-color: cornflowerblue;
+    text-align: center;
+    color:white;
+    padding-left: 30%;
+    padding-right: 30%;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.bold1
+{
+    font-weight: bold;
+    font-size: 20px;
+}
+.bold2
+{
+    font-size: 20px;
+}
