@@ -1,29 +1,47 @@
-.cotainer
-   {
-       height: 700px;
-    }
-    .row
-    {
-      
-    }
-    .col-4
-    {
-      height:120px;
-      text-align: center;
-      padding: 4%;
-      background-color: gainsboro;
-      font-size: 30px;
-      border-radius: 10px;
-    }
-    .col-8
-    {
-         
-    }
-    .col-3
-    {
-        height: 30px;
-        border-radius: 10px;
-        color:white;
-        text-align: center;
-        background-color: blue;
-    }
+.container
+{
+    margin-top: 15px;
+}
+.row1
+{
+    background-color: gainsboro;
+    height: 170px;
+    border-radius: 5px;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 30px;
+}
+.sub_head
+{
+    font-size: 25px;
+}
+.box
+{
+    background-color: blue;
+    text-align: center;
+    height: 30px;
+    color:white;
+    border-radius: 5px;
+}
+.line
+{
+    margin-top: -5px;
+}
+.row2
+{
+    background-color: gainsboro;
+    height: 150px;
+    border-radius: 5px;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 30px;
+}
+.row3
+{
+    background-color: gainsboro;
+    height: 150px;
+    border-radius: 5px;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 30px;
+}
