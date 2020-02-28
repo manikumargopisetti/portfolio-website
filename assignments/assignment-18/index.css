@@ -5,6 +5,10 @@
 }
 .box_xsm
 {
+    font-size: 14px;
+    padding-left: 14px;
+    padding-right: 14px;
+     
     background-color: orange;
     border:2px solid black;
     padding-top: 10px;
@@ -13,6 +17,9 @@
 }
 .box_sm
 {
+    font-size: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
     background-color: #00c8ff;
     border:2px dashed black;
     padding-top: 20px;
@@ -21,6 +28,9 @@
 }
 .box_md
 {
+    font-size: 18px;
+    padding-left: 18px;
+    padding-right: 18px;
     background-color: #246caf;
     border:2px dotted black;
     padding-top: 30px;
@@ -29,18 +39,26 @@
 }
 .box_lg
 {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-color: #7985ff;
     border:2px solid black;
     padding-top: 40px;
     padding-bottom: 40px;
     margin-bottom: 40px;
+    text-align: center;
 }
 .box_xl
 {
+    font-size: 22px;
+    padding-left: 22px;
+    padding-right: 22px;
     background-color: white;
     padding-top: 50px;
     padding-bottom: 50px;
     margin-bottom: 50px;
+    text-align: center;
 }
 .bg
 {
