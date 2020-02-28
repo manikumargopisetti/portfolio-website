@@ -22,7 +22,7 @@
 .box_md
 {
     background-color: #246caf;
-    border:2px dashed black;
+    border:2px dotted black;
     padding-top: 30px;
     padding-bottom: 30px;
     margin-bottom: 30px;
@@ -30,7 +30,7 @@
 .box_lg
 {
     background-color: #7985ff;
-    border:2px dashed black;
+    border:2px solid black;
     padding-top: 40px;
     padding-bottom: 40px;
     margin-bottom: 40px;
@@ -41,4 +41,8 @@
     padding-top: 50px;
     padding-bottom: 50px;
     margin-bottom: 50px;
+}
+.bg
+{
+    background-color: Aliceblue;
 }
