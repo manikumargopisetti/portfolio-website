@@ -12,9 +12,55 @@
 .bold1
 {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 23px;
 }
 .bold2
 {
     font-size: 20px;
+}
+.under
+{
+    border-bottom: 3px solid blue;
+      font-weight: bold;
+      font-size: 35px;
+}
+.font
+{
+    font-weight: bold;
+    font-size: 35px;
+}
+.fon
+{
+    font-size: 30px;
+}
+.wrap
+{
+       background-color: cornflowerblue;
+       text-align: center;
+       color: white;
+       padding-top: 5%;
+}
+.head
+{
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 12%;
+}
+.h1
+{
+    font-size: 20px;
+    color:white;
+}
+.bg
+{
+    padding-top: 15px;
+    background-color: gainsboro;
+    margin-left: -15px;
+    margin-bottom: 3%;
+    margin-top:1%;
+    padding-left: 4%;
+}
+.para
+{
+    color:gray;
 }
