@@ -27,10 +27,16 @@
 .cntr
 {
     text-align: center;
+    font-size: 22px;
 }
 .spac
 {
     text-align: center;
+    font-size: 25px;
+}
+.size2
+{
+    font-size: 17px;
 }
 .sp
 {
@@ -53,4 +59,33 @@
 .clr
 {
   color:gray;
+}
+.par1
+{
+    font-size: 20px;
+    color:gray;
+}
+.Title2
+{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.B_box
+{
+    height: 25px;
+    width: 21px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: indigo;
+    color:white;
+    text-align: center;
+}
+.para2
+{
+    font-size: 17px;
+    color:gray;
+}
+.Title4
+{
+    
 }
