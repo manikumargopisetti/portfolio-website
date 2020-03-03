@@ -28,13 +28,13 @@
     background-color: #5a57bb;
     display: inline-block;
 }
-.left_side_box
-{
-    height: 120px;
-    background-color: #5a57bb;
-}
 .l_top_box
 {
     height: 60px;
     background-color: #4a86e8;
+}
+.l_bottom_box
+{
+    height: 60px;
+    background-color: #5a57bb;
 }
