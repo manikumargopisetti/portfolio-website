@@ -1,0 +1,40 @@
+.first_hlf_row
+{
+    height: 40px;
+    background-color: #09885a;
+    display: inline-block;
+}
+.second_hlf_row
+{
+    height:40px;
+    background-color: #5a57bb;
+    display: inline-block;
+}
+.second_row
+{
+    height: 40px;
+    background-color: #ff9900;
+    
+}
+.third_f-hlf_row
+{
+    height: 40px;
+    background-color:#09885a; 
+    display: inline-block;
+}
+.third_s-hlf_row
+{
+    height: 40px;
+    background-color: #5a57bb;
+    display: inline-block;
+}
+.left_side_box
+{
+    height: 120px;
+    background-color: #5a57bb;
+}
+.l_top_box
+{
+    height: 60px;
+    background-color: #4a86e8;
+}
