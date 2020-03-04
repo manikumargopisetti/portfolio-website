@@ -1,1 +1,25 @@
-
+.heading
+{
+    text-align: center;
+}
+.card1
+{
+    text-align: center;
+    border-radius: 20px;
+}
+.card2
+{
+    text-align: center;
+    border-radius: 20px;
+}
+.btn
+{
+    height:40px;
+    color:white;
+    background-color: #00ccff;
+    margin: auto;
+}
+img
+{
+    margin: auto;
+}
