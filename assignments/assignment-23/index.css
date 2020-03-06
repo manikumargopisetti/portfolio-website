@@ -26,7 +26,7 @@
 .heading
 {
     text-align: center;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 .btn_sp
 {
@@ -44,4 +44,31 @@
 .landing_mobile
 {
     height: 450px;
+}
+.desktop-img
+{
+    padding-top: 35px;
+}
+.desktop_contant
+{
+    text-align: left;
+    padding-top: 150px;
+}
+.gmail-desktop
+{
+    padding-top: 35px;
+}
+.gmail_screen_shoot
+{
+    height:200px;
+    width: 100%;
+}
+.never-drop-desktop
+{
+    height:200px;
+    width: 100%;
+}
+.Create_Account_Pad
+{
+    padding-bottom: 20px;
 }
