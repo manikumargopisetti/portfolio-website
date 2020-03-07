@@ -19,13 +19,9 @@
 {
     color:gray;
 }
-.page
-{
-    text-align:center;
-}
 .heading
 {
-    text-align: center;
+    /*text-align: center;*/
     padding-top: 30px;
 }
 .btn_sp
@@ -51,8 +47,7 @@
 }
 .desktop_contant
 {
-    text-align: left;
-    padding-top: 150px;
+    padding-top: 100px;
 }
 .gmail-desktop
 {
@@ -70,5 +65,14 @@
 }
 .Create_Account_Pad
 {
-    padding-bottom: 20px;
+    padding-top: 50px;
+}
+.footer_title
+{
+    font-size: 30px;
+}
+.footer_links
+{
+    font-size: 15px;
+    display:inline-block;
 }
