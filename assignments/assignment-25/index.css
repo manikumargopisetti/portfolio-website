@@ -1,0 +1,61 @@
+.b_icon
+{
+    height: 20px;
+    display: inline-block;
+}
+.web_site
+{
+    font-weight: bold;
+}
+.bg_img
+{
+    background-image: url(assets/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+}
+.inside_profile
+{
+    text-align: center;
+    color: white;
+    background-position: center;
+}
+.profile_img
+{
+    height: 14%;
+    width: 14%;
+    border-radius: 30px;
+    background-position: center;
+    padding-top: 20px;
+}
+.p_bot
+{
+    font-size: 30px;
+}
+.content
+{
+    color:gray;
+    font-size: 13px;
+}
+.btn
+{
+    margin-left: 20px;
+}
+.background_img
+{
+    height: 30%;
+    width: 62%;
+}
+.card_img
+{
+    margin-left: 10%;
+}
+.btn_two
+{
+    margin-left: 33%;
+}
+.bg-color_sec2
+{
+    background-color: #F8F8FF;
+}
