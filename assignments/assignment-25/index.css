@@ -96,3 +96,13 @@
     background-size: cover;
     margin-bottom: 5px;
 }
+.footer_icon
+{
+    margin-left: 10%
+}
+.s_icons
+{
+    height: 150%;
+    width: 10%;
+    display: inline-block;
+}
