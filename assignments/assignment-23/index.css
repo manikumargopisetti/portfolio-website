@@ -1,78 +1,86 @@
-.Gmail_logo
-{
-    height: 30px;
-}
-.gmail
-{
-    font-size: 30px;
-    color:gray;
-}
-.gmail_top
-{
-    padding-top: 10px;
-}
-.sign_nav
-{
-    text-align:right;
-}
-.dis
-{
-    color:gray;
-}
-.heading
-{
+/*.Gmail_logo*/
+/*{*/
+/*    height: 30px;*/
+/*}*/
+/*.gmail*/
+/*{*/
+/*    font-size: 30px;*/
+/*    color:gray;*/
+/*}*/
+/*.gmail_top*/
+/*{*/
+/*    padding-top: 10px;*/
+/*}*/
+/*.sign_nav*/
+/*{*/
+/*    text-align:right;*/
+/*}*/
+/*.dis*/
+/*{*/
+/*    color:gray;*/
+/*}*/
+/*.heading*/
+/*{*/
     /*text-align: center;*/
-    padding-top: 30px;
-}
-.btn_sp
+/*    padding-top: 30px;*/
+/*}*/
+/*.btn_sp*/
+/*{*/
+/*    padding-top: 20px;*/
+/*}*/
+/*.logo*/
+/*{*/
+/*    height: 70px;*/
+/*    padding-top: 20px;*/
+/*}*/
+/*.down_sp*/
+/*{*/
+/*    padding-top: 10px;*/
+/*}*/
+/*.landing_mobile*/
+/*{*/
+/*    width:  100%;*/
+/*}*/
+/*.desktop-img*/
+/*{*/
+/*    padding-top: 35px;*/
+/*}*/
+/*.desktop_contant*/
+/*{*/
+/*    padding-top: 100px;*/
+/*}*/
+/*.gmail-desktop*/
+/*{*/
+/*    padding-top: 35px;*/
+/*}*/
+/*.gmail_screen_shoot*/
+/*{*/
+/*    height:200px;*/
+/*    width: 100%;*/
+/*}*/
+/*.never-drop-desktop*/
+/*{*/
+/*    height:200px;*/
+/*    width: 100%;*/
+/*}*/
+/*.Create_Account_Pad*/
+/*{*/
+/*    padding-top: 50px;*/
+/*}*/
+/*.footer_title*/
+/*{*/
+/*    font-size: 30px;*/
+/*}*/
+/*.footer_links*/
+/*{*/
+/*    font-size: 15px;*/
+/*    display:inline-block;*/
+/*}*/
+.logo_img
 {
-    padding-top: 20px;
+    height: 15px;
 }
-.logo
+.btn
 {
-    height: 70px;
-    padding-top: 20px;
-}
-.down_sp
-{
-    padding-top: 10px;
-}
-.landing_mobile
-{
-    width:  100%;
-}
-.desktop-img
-{
-    padding-top: 35px;
-}
-.desktop_contant
-{
-    padding-top: 100px;
-}
-.gmail-desktop
-{
-    padding-top: 35px;
-}
-.gmail_screen_shoot
-{
-    height:200px;
-    width: 100%;
-}
-.never-drop-desktop
-{
-    height:200px;
-    width: 100%;
-}
-.Create_Account_Pad
-{
-    padding-top: 50px;
-}
-.footer_title
-{
-    font-size: 30px;
-}
-.footer_links
-{
-    font-size: 15px;
-    display:inline-block;
+    text-align: right;
 }

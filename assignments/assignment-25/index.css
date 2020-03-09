@@ -142,6 +142,12 @@
     background-repeat: no-repeat;
     padding-bottom: 100px;
     padding-top: 100px;
+    
+}
+.gradient_color
+{
+    background-color:#00000050;
+    width: 100%;
 }
 .profile_img
 {
