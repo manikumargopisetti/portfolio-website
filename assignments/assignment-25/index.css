@@ -59,10 +59,6 @@
 {
     margin-left: 10%;
 }
-.btn_two
-{
-    margin-left: 33%;
-}
 .bg-color_sec2
 {
     background-color: #F8F8FF;
@@ -106,3 +102,7 @@
     width: 10%;
     display: inline-block;
 }
+/***/
+/*{*/
+/*    border:1px solid red;*/
+/*}*/
