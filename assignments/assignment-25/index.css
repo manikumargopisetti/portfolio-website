@@ -12,8 +12,9 @@
     background-image: url(assets/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 500px;
     width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 .inside_profile
 {
@@ -23,11 +24,10 @@
 }
 .profile_img
 {
-    height: 14%;
-    width: 14%;
-    border-radius: 30px;
+    height: 10%;
+    width: 10%;
+    border-radius: 20px;
     background-position: center;
-    padding-top: 20px;
 }
 .p_bot
 {
@@ -58,4 +58,28 @@
 .bg-color_sec2
 {
     background-color: #F8F8FF;
+}
+.card_size
+{
+    height: 100%;
+    width: 100%;
+}
+.card_size1
+{
+    height: 140%;
+    width: 100%;
+    background-size: contain;
+}
+.img
+{
+    display: inline-block;
+    height: 300%;
+    width: 100%;
+    background-size:cover; 
+}
+.img1
+{
+    height: 150%;
+    width: 100%;
+    background-size: cover;
 }
