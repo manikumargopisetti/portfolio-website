@@ -10,6 +10,14 @@
     display: inline-block;
     font-weight: bold;
 }
+.para
+{
+    text-align:right;
+}
+.content
+{
+    text-align: center;
+}
 .bg_img
 {
     background-image: url(assets/background.jpg);
@@ -35,6 +43,10 @@
 .p_bot
 {
     font-size: 30px;
+}
+.padding_top
+{
+  padding-top: 30px;   
 }
 .content
 {
