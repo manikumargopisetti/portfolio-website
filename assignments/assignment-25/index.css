@@ -125,8 +125,14 @@
 .b_icon
 {
     /*height: 10%;*/
-    width: 10%;
+    width: 20px;
     display: inline-block;
+    margin-bottom: 5px;
+}
+.title
+{
+    font-weight: bold;
+    margin-bottom: 8px;
 }
 .bg_img
 {
@@ -172,4 +178,26 @@
 .border
 {
     border:1px solid blue;
+}
+.image1_dim
+{
+    height: 720px;
+    width:100%;
+}
+.image2_dim
+{
+    height: 350px;
+    width: 100%;
+}
+.see_img
+{
+    margin-bottom: 20px;
+}
+.btn
+{
+    margin: auto;
+}
+.social_icon
+{
+    height: 20px;
 }
