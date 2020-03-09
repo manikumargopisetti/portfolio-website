@@ -151,8 +151,8 @@
 }
 .profile_img
 {
-    height: 28%;
-    width: 13%;
+    height: 100px;
+    width: 90px;
     background-position:center;
     border-radius: 20px;
     margin-top: 10%;
@@ -210,5 +210,5 @@
 }
 .social_icon
 {
-    height: 20px;
+    height: 25px;
 }
