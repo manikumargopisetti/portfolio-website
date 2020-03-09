@@ -179,6 +179,11 @@
 {
     border:1px solid blue;
 }
+.image1_sm_dim
+{
+    height: 350px;
+    width: 100%;
+}
 .image1_dim
 {
     height: 720px;
