@@ -50,6 +50,11 @@
     height: 30%;
     width: 62%;
 }
+.card_3row
+{
+    height: 80%;
+    width: 100%;
+}
 .card_img
 {
     margin-left: 10%;
@@ -61,6 +66,10 @@
 .bg-color_sec2
 {
     background-color: #F8F8FF;
+}
+.card_3img
+{
+    margin-left: 20%;
 }
 .card_size1
 {
@@ -85,4 +94,5 @@
     height: 200%;
     width: 100%;
     background-size: cover;
+    margin-bottom: 5px;
 }
