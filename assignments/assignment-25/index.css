@@ -1,120 +1,174 @@
+/*.b_icon*/
+/*{*/
+/*    height: 15px;*/
+/*    widows: 15px;*/
+/*    display: inline-block;*/
+/*}*/
+/*.title*/
+/*{*/
+/*    font-size: 15px;*/
+/*    display: inline-block;*/
+/*    font-weight: bold;*/
+/*}*/
+/*.para*/
+/*{*/
+/*    text-align:right;*/
+/*}*/
+/*.content*/
+/*{*/
+/*    text-align: center;*/
+/*}*/
+/*.bg_img*/
+/*{*/
+/*    background-image: url(assets/background.jpg);*/
+/*    background-size: cover;*/
+/*    background-repeat: no-repeat;*/
+/*    width: 100%;*/
+/*    padding-top: 100px;*/
+/*    padding-bottom: 100px;*/
+/*}*/
+/*.inside_profile*/
+/*{*/
+/*    text-align: center;*/
+/*    color: white;*/
+/*    background-position: center;*/
+/*}*/
+/*.profile_img*/
+/*{*/
+/*    height: 10%;*/
+/*    width: 10%;*/
+/*    border-radius: 20px;*/
+/*    background-position: center;*/
+/*}*/
+/*.p_bot*/
+/*{*/
+/*    font-size: 30px;*/
+/*}*/
+/*.padding_top*/
+/*{*/
+/*  padding-top: 30px;   */
+/*}*/
+/*.content*/
+/*{*/
+/*    color:gray;*/
+/*    font-size: 13px;*/
+/*}*/
+/*.btn*/
+/*{*/
+/*    margin-left: 20px;*/
+/*}*/
+/*.background_img*/
+/*{*/
+/*    height: 30%;*/
+/*    width: 62%;*/
+/*}*/
+/*.card_3row*/
+/*{*/
+/*    height: 80%;*/
+/*    width: 100%;*/
+/*}*/
+/*.card_img*/
+/*{*/
+/*    margin-left: 10%;*/
+/*}*/
+/*.bg-color_sec2*/
+/*{*/
+/*    background-color: #F8F8FF;*/
+/*}*/
+/*.card_3img*/
+/*{*/
+/*    margin-left: 20%;*/
+/*}*/
+/*.card_size1*/
+/*{*/
+/*    height: 150%;*/
+/*    width: 100%;*/
+/*    background-size: contain;*/
+/*}*/
+/*.card_size*/
+/*{*/
+/*    height: 100%;*/
+/*    width: 100%;*/
+/*}*/
+/*.img*/
+/*{*/
+/*    display: inline-block;*/
+/*    height: 400%;*/
+/*    width: 100%;*/
+/*    background-size:cover; */
+/*}*/
+/*.img1*/
+/*{*/
+/*    height: 200%;*/
+/*    width: 100%;*/
+/*    background-size: cover;*/
+/*    margin-bottom: 5px;*/
+/*}*/
+/*.footer_icon*/
+/*{*/
+/*    margin-left: 10%*/
+/*}*/
+/*.s_icons*/
+/*{*/
+/*    height: 150%;*/
+/*    width: 10%;*/
+/*    display: inline-block;*/
+/*}*/
+/***/
+/*{*/
+/*    border:1px solid red;*/
+/*}*/
+.space
+{
+    padding-top: 20px;
+}
 .b_icon
 {
-    height: 15px;
-    widows: 15px;
+    /*height: 10%;*/
+    width: 10%;
     display: inline-block;
-}
-.title
-{
-    font-size: 15px;
-    display: inline-block;
-    font-weight: bold;
-}
-.para
-{
-    text-align:right;
-}
-.content
-{
-    text-align: center;
 }
 .bg_img
 {
     background-image: url(assets/background.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
     width: 100%;
-    padding-top: 100px;
+    background-repeat: no-repeat;
     padding-bottom: 100px;
-}
-.inside_profile
-{
-    text-align: center;
-    color: white;
-    background-position: center;
+    padding-top: 100px;
 }
 .profile_img
 {
-    height: 10%;
-    width: 10%;
+    height: 28%;
+    width: 13%;
+    background-position:center;
     border-radius: 20px;
-    background-position: center;
+    margin-top: 10%;
+    
 }
-.p_bot
+.head
 {
-    font-size: 30px;
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
 }
-.padding_top
+.sub_head
 {
-  padding-top: 30px;   
+    color: white;
 }
-.content
+.para
 {
-    color:gray;
-    font-size: 13px;
+    margin-top: 15px;
 }
-.btn
-{
-    margin-left: 20px;
-}
-.background_img
-{
-    height: 30%;
-    width: 62%;
-}
-.card_3row
-{
-    height: 80%;
-    width: 100%;
-}
-.card_img
-{
-    margin-left: 10%;
-}
-.bg-color_sec2
+.bg_color
 {
     background-color: #F8F8FF;
 }
-.card_3img
+.img_dim
 {
-    margin-left: 20%;
+    height: 50vh;
 }
-.card_size1
+.border
 {
-    height: 150%;
-    width: 100%;
-    background-size: contain;
+    border:1px solid blue;
 }
-.card_size
-{
-    height: 100%;
-    width: 100%;
-}
-.img
-{
-    display: inline-block;
-    height: 400%;
-    width: 100%;
-    background-size:cover; 
-}
-.img1
-{
-    height: 200%;
-    width: 100%;
-    background-size: cover;
-    margin-bottom: 5px;
-}
-.footer_icon
-{
-    margin-left: 10%
-}
-.s_icons
-{
-    height: 150%;
-    width: 10%;
-    display: inline-block;
-}
-/***/
-/*{*/
-/*    border:1px solid red;*/
-/*}*/
