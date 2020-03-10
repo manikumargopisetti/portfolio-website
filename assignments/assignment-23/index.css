@@ -99,12 +99,26 @@
     display: inline-block;
     color:gray;
 }
+.bg-color
+{
+    background-color: ghostwhite;
+    padding-bottom: 10%; 
+}
 .landing_mobile
 {
     width: 90%;
 }
 .landing_desktop
 {
-    height: 350px;
+    height: 450px;
     width: 100%;
+    padding-top: 20%;
+}
+.tab_con
+{
+    padding-top: 13%;
+}
+.content
+{
+    padding-top: 20px;
 }
