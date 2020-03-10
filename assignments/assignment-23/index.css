@@ -78,9 +78,33 @@
 /*}*/
 .logo_img
 {
-    height: 15px;
+    height: 25px;
+    margin-bottom:5px;
+}
+.title
+{
+    font-size: 23px;
+    color:gray;
 }
 .btn
 {
     text-align: right;
+}
+.mobile_header
+{
+    border-bottom:1px solid gray;
+}
+.l_item
+{
+    display: inline-block;
+    color:gray;
+}
+.landing_mobile
+{
+    width: 100%;
+}
+.landing_desktop
+{
+    height: 350px;
+    width: 100%;
 }
