@@ -84,10 +84,41 @@
 /*    background-color: lightblue;*/
 /*  }*/
 /*}*/
-@media all and (max-width:400px)
+/*@media all and (max-width:400px)*/
+/*{*/
+/*  body*/
+/*  {*/
+/*    background-color: orange;*/
+/*  }*/
+/*}*/
+
+@media(max-width:576px)
 {
-  body
+  .one
+  {
+    background-color: red;
+    width: 30%;
+    height: 50px;
+    border:3px dashed yellow;
+  }
+}
+@media(min-width:576px)
+{
+  .one
+  {
+    background-color: green;
+    width: 30%;
+    height: 50px;
+    border:3px dashed yellow;
+  }
+}
+@media(min-width:768px)
+{
+  .one
   {
     background-color: orange;
+    width: 30%;
+    height: 50px;
+    border:3px dashed yellow;
   }
 }
