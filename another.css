@@ -1,14 +1,14 @@
-body
-{
-    background-color: pink;
-}
-@media screen
-{
-    body
-    {
-        font-size: 50px;
-    }
-}
+/*body*/
+/*{*/
+/*    background-color: pink;*/
+/*}*/
+/*@media screen*/
+/*{*/
+/*    body*/
+/*    {*/
+/*        font-size: 50px;*/
+/*    }*/
+/*}*/
 /*@media all*/
 /*{*/
 /*    p*/
@@ -17,35 +17,56 @@ body
 /*        color:red;*/
 /*    }*/
 /*}*/
-@media (width:400px)
+/*@media (width:400px)*/
+/*{*/
+/*    body*/
+/*    {*/
+/*      background-color: pink;*/
+/*      color:skyblue;*/
+/*    }*/
+/*}*/
+/*@media (width:576px)*/
+/*{*/
+/*    body*/
+/*    {*/
+/*        background-color: blue;*/
+/*        color:red;*/
+/*    }*/
+/*}*/
+/*@media (width:768px)*/
+/*{*/
+/*    body*/
+/*    {*/
+/*      background-color: yellow;*/
+/*      color:red;*/
+/*    }*/
+/*}*/
+/*@media (width:1024px)*/
+/*{*/
+/*    body*/
+/*    {*/
+/*      background-color: green;   */
+/*      color:blue;*/
+/*    }*/
+/*}*/
+@media (max-width:768px)
 {
     body
     {
-      background-color: pink;
-      color:skyblue;
+      background-color: yellow; 
     }
 }
-@media (width:576px)
+@media (min-width:850px)
 {
     body
     {
-        background-color: blue;
-        color:red;
+      background-color: orange;   
     }
 }
-@media (width:768px)
-{
-    body
-    {
-      background-color: yellow;
-      color:red;
-    }
-}
-@media (width:1024px)
+@media (min-width:998px)
 {
     body
     {
       background-color: green;   
-      color:blue;
     }
 }
