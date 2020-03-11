@@ -1,0 +1,51 @@
+body
+{
+    background-color: pink;
+}
+@media screen
+{
+    body
+    {
+        font-size: 50px;
+    }
+}
+@media all
+{
+    p
+    {
+        background-color: green;
+        color:red;
+    }
+}
+@media (width:768px)
+{
+    body
+    {
+      background-color: pink;
+      color:skyblue;
+    }
+}
+@media (width:576px)
+{
+    body
+    {
+        background-color: blue
+        color:black;
+    }
+}
+@media (width:768px)
+{
+    body
+    {
+      background-color: yellow;
+      color:red;
+    }
+}
+@media (width:1024px)
+{
+    body
+    {
+      background-color: green;   
+      color:blue;
+    }
+}
