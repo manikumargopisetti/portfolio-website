@@ -70,17 +70,24 @@
 /*      background-color: green;   */
 /*    }*/
 /*}*/
-@media only screen and (orientation: landscape)
+/*@media only screen and (orientation: landscape)*/
+/*{*/
+/*  body*/
+/*  {*/
+/*    background-color: lightblue;*/
+/*  }*/
+/*}*/
+/*@media only screen and (orientation: portrait)*/
+/*{*/
+/*  body*/
+/*  {*/
+/*    background-color: lightblue;*/
+/*  }*/
+/*}*/
+@media all and (max-width:400px)
 {
   body
   {
-    background-color: lightblue;
-  }
-}
-@media only screen and (orientation: portrait)
-{
-  body
-  {
-    background-color: lightblue;
+    background-color: orange;
   }
 }
