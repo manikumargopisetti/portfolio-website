@@ -30,7 +30,7 @@ body
     body
     {
         background-color: blue;
-        color:black;
+        color:red;
     }
 }
 @media (width:768px)
