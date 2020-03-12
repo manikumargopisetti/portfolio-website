@@ -1,0 +1,48 @@
+body
+{
+    padding-left: 3%;
+    padding-right: 3%; 
+}
+.para{
+    font-size: 20px;
+}
+.heading
+{
+    font-size: 45px;
+}
+.bord
+{
+    width: 100%;
+    height: 250px;
+}
+.sub_head
+{
+    font-size: 35px;
+}
+.para
+{
+    font-size: 20px;
+}
+@media(max-width:576px)
+{
+    body
+    {
+        display: none;
+    }
+}
+@media(min-width:767px)
+{
+    .box
+    {
+        width: 49%;
+        display: inline-block;
+        vertical-align: top;
+    }
+}
+@media(min-width:992px)
+{
+    body
+    {
+        display: none;
+    }
+}
