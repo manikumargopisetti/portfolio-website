@@ -4,7 +4,7 @@ body
     padding-right: 3%; 
 }
 .para{
-    font-size: 20px;
+    font-size: 17px;
 }
 .heading
 {
@@ -17,13 +17,9 @@ body
 }
 .sub_head
 {
-    font-size: 35px;
+    font-size: 30px;
 }
-.para
-{
-    font-size: 20px;
-}
-@media(max-width:576px)
+@media(max-width:575px)
 {
     body
     {
@@ -43,6 +39,6 @@ body
 {
     body
     {
-        display: none;
+        display: block;
     }
 }
