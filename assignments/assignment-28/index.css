@@ -23,14 +23,15 @@ body
 }
 @media(max-width:576px)
 {
-    body
-    {
-        display: none;
-    }
+    
     .box2
     {
         display: none;
     }
+}
+@media(min-width:577px)
+{
+    
 }
 @media(min-width:569px)
 {
