@@ -21,8 +21,12 @@ body
 {
     font-size: 20px;
 }
-@media(max-width:567px)
+@media(max-width:576px)
 {
+    body
+    {
+        display: none;
+    }
     .box2
     {
         display: none;
@@ -51,5 +55,8 @@ body
 }
 @media(min-width:990px)
 {
-    display:none;
+    body
+    {
+        display:none;
+    }
 }
